@@ -1,2 +1,2 @@
-# idrosistemi
-Python library to interact with Idrosistemi system
+# Setecna
+Python library to interact with Setecna REG system
